@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently studying Applied Maths and Computing degree at UC3M</p>
 
 ###
 
@@ -54,7 +54,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasguzmanb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=lucasguzmanb&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasguzmanb&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 

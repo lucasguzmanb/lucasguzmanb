@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying Applied Maths and Computing degree at UC3M</p>
+<p align="left">📚 I am a Bachelor's Degree in Applied Mathematics and Computing student at Universidad Carlos III de Madrid. Passionate about applying technical and analytical skills in real-world settings.</p>
 
 ###
 

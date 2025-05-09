@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I am a Bachelor's Degree in Applied Mathematics and Computing student at Universidad Carlos III de Madrid. Passionate about applying technical and analytical skills in real-world settings.</p>
+<p align="left">📚 I am a Bachelor's Degree in Mathematics and Computing student at Universidad Carlos III de Madrid. Passionate about applying technical and analytical skills in real-world settings.</p>
 
 ###
 
